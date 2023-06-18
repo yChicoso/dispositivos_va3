@@ -18,7 +18,7 @@ class TelaCardapio extends StatelessWidget {
   final List<Cardapio> menuItems = [
     Cardapio(
       images: 'assets/cap.jpg',
-      name: 'Capitão Burguer',
+      name: 'Capitão Burger',
       description:
           'Lute contra a fome como se ela tivesse as 6 jóias do infinito. [Diversas Opções] (Hamburguer artesanal 120g)',
       price: 19.99,
