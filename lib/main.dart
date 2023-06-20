@@ -27,7 +27,7 @@ class TelaCardapio extends StatelessWidget {
       images: 'assets/pok2.jpg',
       name: 'Poke fome',
       description:
-          'Po, que fome. entendeu? a piada? nao zera a nota. [Diversas Opções] (Metade frango/catupiry, Metade calabresa.)',
+          'Po, que fome. entendeu? a piada? nao zera a nota :). [Diversas Opções] (Metade frango/catupiry, Metade calabresa.)',
       price: 34.99,
     ),
     Cardapio(
